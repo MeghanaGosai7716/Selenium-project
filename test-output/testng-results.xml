@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-14T23:19:57 IST" name="Suite" finished-at="2023-02-14T23:20:26 IST" duration-ms="29556">
+    <groups>
+    </groups>
+    <test started-at="2023-02-14T23:19:57 IST" name="Test" finished-at="2023-02-14T23:20:26 IST" duration-ms="29556">
+      <class name="testcases.VerifySignuppage">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:testcases.VerifySignuppage@47af7f3d]" started-at="2023-02-14T23:20:10 IST" name="openurl" finished-at="2023-02-14T23:20:15 IST" duration-ms="5056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="signup()[pri:0, instance:testcases.VerifySignuppage@47af7f3d]" started-at="2023-02-14T23:20:15 IST" name="signup" finished-at="2023-02-14T23:20:25 IST" duration-ms="10398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.VerifySignuppage@47af7f3d]" started-at="2023-02-14T23:20:25 IST" name="closebrowser" finished-at="2023-02-14T23:20:26 IST" duration-ms="918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.VerifySignuppage -->
+      <class name="testcases.Verifyloginpage">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:testcases.Verifyloginpage@708f5957]" started-at="2023-02-14T23:19:57 IST" name="openurl" finished-at="2023-02-14T23:20:08 IST" duration-ms="10754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="login()[pri:0, instance:testcases.Verifyloginpage@708f5957]" started-at="2023-02-14T23:20:08 IST" name="login" finished-at="2023-02-14T23:20:09 IST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.Verifyloginpage@708f5957]" started-at="2023-02-14T23:20:09 IST" name="closebrowser" finished-at="2023-02-14T23:20:10 IST" duration-ms="977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.Verifyloginpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
